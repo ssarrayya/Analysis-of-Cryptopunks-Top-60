@@ -1,0 +1,17 @@
+Cryptopunks worksheet
+position - The position in order of the highest price to the lowest.
+id - The id of the cryptopunk.
+price_ether - The price of the cryptopunk in Ether.
+price_usd - The price of the cryptopunk in US Dollars.
+date_sold - The date the cryptopunk was sold.
+attributes_count - The number of attributes a punk has. This could be anywhere between 0-7.
+specific_attribute - The attribute(s) a punk has - This could be a Mohawk, or a Cigarette. There are about 85 of them.
+punk_type - The type of punk it is. There are 5 in total: Alien, Ape, Female, Male and Zombie.
+
+
+Attributes worksheet
+attribute - This countains the punk types, attributes and attribute count.
+number_of_punks_with_attribute - The total available punks with the attribute.
+availability - The number of punks with the attribute that are available for sale.
+average_sale - The average sale of all the punks with the attribute. 
+cheapest - The cheapest price among the punks with the attributes
